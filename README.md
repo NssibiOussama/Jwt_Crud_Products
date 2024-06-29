@@ -9,7 +9,9 @@
 
 
 Laravel 9 Project
+
 Running the Project
+
 Start the Server: php artisan serve
 
 This command will start a development server.
